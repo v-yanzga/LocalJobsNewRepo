@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BrowserMatrix\BrowserStackChrome.cs" />
     <Compile Include="BrowserMatrix\Chrome.cs" />
     <Compile Include="Extensions\SearchContextExtensions.cs" />
     <Compile Include="Extensions\SelectElementExtensions.cs" />
