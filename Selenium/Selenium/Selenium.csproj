@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BrowserMatrix\Chrome.cs" />
+    <Compile Include="Extensions\SelectElementExtensions.cs" />
+    <Compile Include="Extensions\WebDriverExtensions.cs" />
+    <Compile Include="Extensions\WebDriverHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
