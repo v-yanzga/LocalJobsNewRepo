@@ -1,0 +1,9 @@
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\Selenium.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\Selenium.pdb
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\WebDriver.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\WebDriver.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\obj\Debug\Selenium.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\Selenium\obj\Debug\Selenium.pdb

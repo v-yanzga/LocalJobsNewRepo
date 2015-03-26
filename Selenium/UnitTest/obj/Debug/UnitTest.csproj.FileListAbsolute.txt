@@ -1,0 +1,15 @@
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\UnitTest.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\UnitTest.pdb
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\Selenium.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\WebDriver.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\WebDriver.Support.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\Selenium.pdb
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\WebDriver.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\bin\Debug\WebDriver.Support.xml
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\obj\Debug\UnitTest.dll
+D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\UnitTest\obj\Debug\UnitTest.pdb

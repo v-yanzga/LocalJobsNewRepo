@@ -34,7 +34,7 @@ namespace ConsoleApplication
 
             driver.FindElement(By.CssSelector("input[name='otp']")).SendKeys(args[1]);
             driver.WaitForURLChange(() => driver.FindElement(By.CssSelector("div button")).Click());
-            IWebElement LocaljobID = driver.FindElement(By.CssSelector("a[title*='loc job 341']"));
+            IWebElement LocaljobID = driver.FindElement(By.CssSelector("a[title*='loc job "+args[4]+"']"));
             driver.WaitForURLChange(() => LocaljobID.Click());
 
             List<string> localPages = new List<string>();
@@ -47,7 +47,8 @@ namespace ConsoleApplication
                 // System.Console.WriteLine(localPages[i]);
             }
 
-            FileStream aFile = new FileStream("Local drop pages.txt", FileMode.OpenOrCreate);
+            string name = DateTime.Now.ToString("yyyyMMddhhmmss");
+            FileStream aFile = new FileStream(@"D:\ACOM\Localdrops_WorkRound\Locjobs\Selenium\ConsoleApplication\" +name +"_Localjob"+args[4] + ".txt", FileMode.CreateNew);
             StreamWriter sw = new StreamWriter(aFile);
             for (int i = 0; i < localPages.Count; i++)
             {
